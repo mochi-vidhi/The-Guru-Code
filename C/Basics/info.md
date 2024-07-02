@@ -68,11 +68,11 @@ gcc <file_name>.c -o <output_file_name>.exe
 2.Multi-line comment
 
 ## Syntax of Single Line C Comment
-- ``` 
+ ```c 
    // This is a single line comment
    ```
 ## Syntax of Multi-Line C Comment
-```
+```c
 /*Comment starts
     continues
     continues
@@ -81,6 +81,8 @@ gcc <file_name>.c -o <output_file_name>.exe
     .
 Comment ends*/
 ```
+<hr>
+
 # Variables
 
 ## Variables:
