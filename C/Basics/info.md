@@ -57,7 +57,17 @@ gcc <file_name>.c -o <output_file_name>.exe
 - for more refer to [SETUP GUIDE](../clang_setup.pdf)
 
 <hr>
-
+# Comments
+- The comments in C are human-readable explanations or notes in the source code of a C program.  
+- A comment makes the program easier to read and understand. 
+- These are the statements that are not executed by the compiler or an interpreter.
+## Types of comments in C
+1.Single-line comment
+2.Multi-line comment
+## Syntax of Single Line C Comment
+- ``` 
+   // This is a single line comment
+   ```
 # Variables
 
 ## Variables:
