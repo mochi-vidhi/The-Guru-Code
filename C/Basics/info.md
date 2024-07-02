@@ -81,6 +81,10 @@ gcc <file_name>.c -o <output_file_name>.exe
     .
 Comment ends*/
 ```
+See this files for code. [Code]()
+<hr>
+
+# [Tokens in C](https://www.geeksforgeeks.org/tokens-in-c/?ref=lbp)
 <hr>
 
 # Variables
