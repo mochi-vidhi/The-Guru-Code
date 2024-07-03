@@ -131,3 +131,27 @@ See this files for code. [Code]()
 See this file for code. [Code](./variables.c)
 
 See more practice questions. [Practice](./variable_practice.c)
+<hr>
+
+# Constants in C
+## What is a constant in C?
+- As the name suggests, a constant in C is a variable that cannot be modified once it is declared in the program. 
+- We can not make any change in the value of the constant variables after they are defined.
+## Syntax to Define Constant
+```c
+const data_type var_name = value;
+Ex. const int var = 5;
+```
+## Types of Constants in C
+1. Integer Constant
+2. Character Constant
+3. Floating Point Constant
+4. Double Precision Floating Point Constant
+5. Array Constant
+6. Structure Constant
+## Properties of Constant in C
+1. Initialization with Declaration
+2. Immutability
+
+See this file for code. [Code](./variables.c).
+
